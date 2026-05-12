@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 17:56 IR
+- 📥 [Windscribe_2.21.7_arm64.exe](https://github.com/dreamerkeys/sandboxdlanfile/raw/main/dl/Windscribe_2.21.7_arm64.exe) `33.0MB`
+
+---
+
+
 ### 📅 2026-05-12 17:38 IR
 - 🗜️ [mobile.7z.001](https://github.com/dreamerkeys/sandboxdlanfile/raw/main/dl/mobile.7z.001) `95.0MB`
 

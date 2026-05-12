@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 18:03 IR
+- 🗜️ [CNS_1.2.2_x64-setup.7z.001](https://github.com/dreamerkeys/sandboxdlanfile/raw/main/dl/CNS_1.2.2_x64-setup.7z.001) `95.0MB`
+
+- 🗜️ [CNS_1.2.2_x64-setup.7z.002](https://github.com/dreamerkeys/sandboxdlanfile/raw/main/dl/CNS_1.2.2_x64-setup.7z.002) `95.0MB`
+
+- 🗜️ [CNS_1.2.2_x64-setup.7z.003](https://github.com/dreamerkeys/sandboxdlanfile/raw/main/dl/CNS_1.2.2_x64-setup.7z.003) `1.7MB`
+
+---
+
+
 ### 📅 2026-05-12 17:56 IR
 - 📥 [Windscribe_2.21.7_arm64.exe](https://github.com/dreamerkeys/sandboxdlanfile/raw/main/dl/Windscribe_2.21.7_arm64.exe) `33.0MB`
 
